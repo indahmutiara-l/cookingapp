@@ -18,7 +18,7 @@ class _HomeState extends State<Home> {
         Container(
           margin: const EdgeInsets.only(left: 20, top: 20),
           child: Text(
-            "ppppppppppp",
+            "yyyyyyyyy",
             style: GoogleFonts.poppins(
                 fontSize: 24, fontWeight: FontWeight.w600, color: Colors.black),
           ),
